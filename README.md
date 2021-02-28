@@ -45,7 +45,12 @@ Esse projeto foi desenvolvido durante a trilha de NodeJS, na quarta edição da 
 
 ## 🔶 Diagrama
 
-<img src="https://github.com/JulioAmbos/NLW-04-NodeJS/blob/main/Public/diagrama.png" alt="Diagrama da aplicação" />
+
+  <img alt="Diagrama da aplicação" src="https://github.com/JulioAmbos/NLW-04-NodeJS/blob/main/Public/diagrama.png" width="100%">
+
+  <img alt="NODE" src="https://github.com/JulioAmbos/NLW-04-NodeJS/blob/main/Public/node.jpg" width="100%">
+
+
 
 ## 🚀 Como executar
 
