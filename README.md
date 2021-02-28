@@ -41,6 +41,8 @@ O NPS-NLW é uma aplicação que consiste em calcular o NPS da empresa. Nele faz
 
 Esse projeto foi desenvolvido durante a trilha de NodeJS, na quarta edição da NLW. Aprendemos conceitos sobre o que é um API, como iniciar um projeto utilizando Typescript e Express para gerenciamento das rotas, TypeORM para manipulação dos dados, testes automatizados e envio de e-mail.
 
+<img src="https://github.com/JulioAmbos/NLW-04-NodeJS/blob/main/Public/gr%C3%A1fico-score-NPS-1024x419.jpg" alt="NPS" />
+
 ## 🔶 Diagrama
 
 <img src="https://github.com/JulioAmbos/NLW-04-NodeJS/blob/main/Public/diagrama.png" alt="Diagrama da aplicação" />
