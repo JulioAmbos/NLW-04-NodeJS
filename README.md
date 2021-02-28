@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <img alt="Happy" src=".github/preview.png" width="100%">
+  <img alt="NPS" src="https://github.com/JulioAmbos/NLW-04-NodeJS/blob/main/Public/survey.jpg" width="100%">
 </p>
 
 ## ✨ Tecnologias
