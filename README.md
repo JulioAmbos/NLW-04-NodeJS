@@ -31,6 +31,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Jest](https://jestjs.io/)
 - [SQL Editor Beekeeper Studio](https://www.beekeeperstudio.io/)
 
+## Finalidade
+
+Estudo e aplicação de novas técnicas.
+
 ## 💻 Projeto
 
 O NPS-NLW é uma aplicação que consiste em calcular o NPS da empresa. Nele fazemos o cadastro de usuários, cadastro de pesquisas, envio de e-mail para os usuários responderem as pesquisas de satisfação e com isso podemos realizar o cálculo do NPS.
