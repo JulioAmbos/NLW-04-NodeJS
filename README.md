@@ -27,18 +27,18 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Ethereal-Email](https://ethereal.email/)
 - [SQL Editor Beekeeper Studio](https://www.beekeeperstudio.io/)
-- [typeorm](https://typeorm.io/#/using-ormconfig) -  ORM baseado em entidades
-- [express](https://expressjs.com/) - Framework para servidor
-- [uuid](https://github.com/uuidjs/uuid) - gerador de ids únicos, como estamos usando uma ORM, pode ser que algum banco não comporte o autoincrement.
-- [@types/express](https://www.npmjs.com/package/@types/express) - Permite visualizar métodos de henrança do express no modelo de typescript
-- [jest](https://jestjs.io/docs/pt-BR/getting-started) - utilizado para realizar os testes
-- [@types/jest](https://www.npmjs.com/package/@types/jest) - utilizado para setar a tipagem do pacote jest, recomendado para ambiente de dev
-- [supertest](https://www.npmjs.com/package/supertest) - utilizado para simular fetchs, é utilizado junto com o jest
+- [typeorm](https://typeorm.io/#/using-ormconfig) -  ORM baseado em entidades.
+- [express](https://expressjs.com/) - Framework para servidor.
+- [uuid](https://github.com/uuidjs/uuid) - Gerador de ids únicos, como estamos usando uma ORM, pode ser que algum banco não comporte o autoincrement.
+- [@types/express](https://www.npmjs.com/package/@types/express) - Permite visualizar métodos de herança do express no modelo de typescript.
+- [jest](https://jestjs.io/docs/pt-BR/getting-started) - utilizado para realizar os testes.
+- [@types/jest](https://www.npmjs.com/package/@types/jest) - utilizado para setar a tipagem do pacote jest, recomendado para ambiente de dev.
+- [supertest](https://www.npmjs.com/package/supertest) - utilizado para simular fetchs, é utilizado junto com o jest.
 - [@types/supertest](https://www.npmjs.com/package/@types/supertest)
-- [nodemailer](https://nodemailer.com/usage/) - utilizado para enviar email e tem um método de test que gera um link para visualizar como o email ira ficar
-- [handlebars](https://handlebarsjs.com/) - auxiliar para criar views/templates de modo facil e dinâmico
-- [yup validation](https://github.com/jquense/yup) - validador simples e objetivo de parametros
-- [express-async-errors](https://www.npmjs.com/package/express-async-errors) - quando criamos um middleware para controlar erros é necessário ter essa lib
+- [nodemailer](https://nodemailer.com/usage/) - utilizado para enviar email e tem um método de test que gera um link para visualizar como o email ira ficar.
+- [handlebars](https://handlebarsjs.com/) - auxiliar para criar views/templates de modo facil e dinâmico.
+- [yup validation](https://github.com/jquense/yup) - validador simples e objetivo de parametros.
+- [express-async-errors](https://www.npmjs.com/package/express-async-errors) - quando criamos um middleware para controlar erros é necessário ter essa lib.
 
 ## Finalidade
 
